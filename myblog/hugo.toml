@@ -1,0 +1,4 @@
+baseURL = 'https://7Cuba7.github.io/'
+locale = 'en-us'
+title = 'Tauro tinklalapis'
+theme = 'PaperMod'
