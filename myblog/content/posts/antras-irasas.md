@@ -6,4 +6,4 @@ title = 'Antras Įrašas'
 ```python
 print("Labas pasauli")
 ```
-![Aprašymas](https://via.placeholder.com/300)
+![Aprašymas](/images/nature.png)
